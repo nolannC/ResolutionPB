@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
 {
     char action[40];
 
-    // tant qu'il n'y a pas un v
+    // tant qu'il n'y a pas une action valide
     while (1)
     {
         // demande l'action
